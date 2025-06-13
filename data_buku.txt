@@ -1,0 +1,23 @@
+Laskar Pelangi;Andrea Hirata;2005;Fiksi
+Bumi Manusia;Pramoedya Ananta Toer;1980;Fiksi
+Harry Potter and the Philosopher's Stone;J.K. Rowling;1997;Fantasi
+The Lord of the Rings;J.R.R. Tolkien;1954;Fantasi
+To Kill a Mockingbird;Harper Lee;1960;Fiksi
+1984;George Orwell;1949;Fiksi Ilmiah
+Pride and Prejudice;Jane Austen;1813;Romansa
+The Great Gatsby;F. Scott Fitzgerald;1925;Klasik
+Moby Dick;Herman Melville;1851;Petualangan
+War and Peace;Leo Tolstoy;1869;Sejarah
+Atomic Habits;James Clear;2018;Pengembangan Diri
+Sapiens: A Brief History of Humankind;Yuval Noah Harari;2011;Sejarah
+Educated;Tara Westover;2018;Memoar
+The Alchemist;Paulo Coelho;1988;Filosofi
+Clean Code: A Handbook of Agile Software Craftsmanship;Robert C. Martin;2008;Teknologi
+The Pragmatic Programmer;Andrew Hunt, David Thomas;1999;Teknologi
+Introduction to Algorithms;Thomas H. Cormen;2009;Ilmu Komputer
+A Brief History of Time;Stephen Hawking;1988;Sains
+Cosmos;Carl Sagan;1980;Sains
+The Little Prince;Antoine de Saint-Exupéry;1943;Anak-anak
+Charlotte's Web;E.B. White;1952;Anak-anak
+The Art of War;Sun Tzu;-500;Strategi
+Meditations;Marcus Aurelius;167;Filosofi
