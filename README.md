@@ -39,14 +39,6 @@ Pastikan Anda memiliki server web lokal yang terpasang di sistem Anda, seperti X
 
 Ikuti langkah-langkah berikut untuk menjalankan proyek ini secara lokal:
 
-### Clone Repositori
-
-```bash
-git clone https://github.com/username/digital-library-ultimate.git
-```
-
-> Ganti `username` dengan nama pengguna GitHub Anda
-
 ### Pindahkan Folder Proyek
 
 Pindahkan folder `digital-library-ultimate` yang sudah di-clone ke dalam direktori `htdocs` (untuk XAMPP) atau `www` (untuk WAMP) pada instalasi server lokal Anda.
@@ -56,13 +48,4 @@ Pindahkan folder `digital-library-ultimate` yang sudah di-clone ke dalam direkto
 * Buka phpMyAdmin melalui browser ([http://localhost/phpmyadmin](http://localhost/phpmyadmin))
 * Buat database baru dengan nama `digital_library`. Anda tidak perlu membuat tabel apa pun.
 
-### Jalankan Aplikasi
-
-Akses aplikasi melalui browser Anda dengan membuka URL:
-
-```
-http://localhost/digital-library-ultimate/
-```
-
-Aplikasi akan secara otomatis membuat tabel `books` saat pertama kali diakses. Anda siap untuk menggunakannya!
 
